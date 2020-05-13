@@ -21,6 +21,6 @@ and I'm actually happy with the results.
 I feel like my code could be better and I don't think I fully understand everything that I did,
 but at least I got something working.
 
-**Link to work:** [Etch A Sketch](https://dead-simple-calc.netlify.app)
+**Link to work:** [Dead Simple Calculator](https://dead-simple-calc.netlify.app)
 
 

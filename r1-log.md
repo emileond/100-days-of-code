@@ -12,3 +12,7 @@ and I'm actually happy with the results.
 Link: https://friendly-thompson-1ee394.netlify.app
 
 ### R1D2
+Made a dead simple calculator based on a tutorial but trying to come with my own solution,
+I feel like my code could be better and I don't think I fully understand everything that I did, but at least I got something working.
+
+Link: https://dead-simple-calc.netlify.app

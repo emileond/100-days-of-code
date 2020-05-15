@@ -15,12 +15,23 @@ and I'm actually happy with the results.
 ### Day 2: May 12, 2020, Tuesday
 ##### Etch A Sketch
 
-**Today's Progress**: Practice more JS and a bit of CSS, I learned more about EventListeners and practiced how to create more functions and manipulate the DOM.
+**Today's Progress**: Practiced more JS and a bit of CSS, I learned more about EventListeners and practiced how to create more functions and manipulate the DOM.
 
 **Thoughts:** Made a dead simple calculator based on a tutorial but trying to come with my own solution,
 I feel like my code could be better and I don't think I fully understand everything that I did,
 but at least I got something working.
 
 **Link to work:** [Dead Simple Calculator](https://dead-simple-calc.netlify.app)
+
+
+### Day 2: May 14, 2020, Thursday
+##### FreeCodeCamp - Basic Javascript
+
+**Today's Progress**: Practiced JS. Specifically loops and a bit on recursive functions.
+
+**Thoughts:** Hard day. I didn't have much time so I spend one hour practicing the 
+@freeCodeCamp JS Path, got stuck in a for-loop challenge and I feel a bit frustrated. Code is hard.
+
+Hopefully tomorrow will be a better day and I'd make more progress.
 
 

@@ -24,7 +24,7 @@ but at least I got something working.
 **Link to work:** [Dead Simple Calculator](https://dead-simple-calc.netlify.app)
 
 
-### Day 2: May 14, 2020, Thursday
+### Day 3: May 14, 2020, Thursday
 ##### FreeCodeCamp - Basic Javascript
 
 **Today's Progress**: Practiced JS. Specifically loops and a bit on recursive functions.

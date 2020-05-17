@@ -35,3 +35,12 @@ but at least I got something working.
 Hopefully tomorrow will be a better day and I'd make more progress.
 
 
+### Day 4: May 16, 2020, Thursday
+##### FreeCodeCamp - Basic Javascript
+
+**Today's Progress**: Practiced JS: Ternary Opeerators, destructuring, spread and rest operators.
+
+**Thoughts:** Small wins. Today I'm more satisfied with my progress since I finally completed the 
+@freeCodeCamp Beginner JS path and started their ES6 Lessons.
+
+I'm still struggling a bit with destructuring but I'm feeeling more comfortable each day.

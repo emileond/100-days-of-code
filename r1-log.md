@@ -21,3 +21,8 @@ Link: https://dead-simple-calc.netlify.app
 Hard day. I didn't have much time so I spend one hour practicing the @freeCodeCamp JS Path (mostly loops and a bit on recursive functions), got stuck in a for-loop challenge and I feel a bit frustrated. Code is hard.
 
 Hopefully tomorrow will be a better day and I'd make more progress.
+
+### R1D4
+Small wins. Today I'm more satisfied with my progress since I finally completed the @freeCodeCamp Beginner JS path and started their ES6 Lessons. I'm still struggling a bit with destructuring but I'm feeeling more comfortable each day.
+
+Practiced JS Ternary Opeerators, destructuring, spread and rest operators.

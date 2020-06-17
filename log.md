@@ -45,7 +45,7 @@ Hopefully tomorrow will be a better day and I'd make more progress.
 
 I'm still struggling a bit with destructuring but I'm feeeling more comfortable each day.
 
-### Day 6: Jun 16, 2020, Thursday
+### Day 5: Jun 16, 2020, Thursday
 ##### WesBos - Click Outside
 
 **Today's Progress**: Practiced JS: Learned how to make a modal with a click-outside functionallity.

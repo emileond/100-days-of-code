@@ -44,3 +44,10 @@ Hopefully tomorrow will be a better day and I'd make more progress.
 @freeCodeCamp Beginner JS path and started their ES6 Lessons.
 
 I'm still struggling a bit with destructuring but I'm feeeling more comfortable each day.
+
+### Day 6: Jun 16, 2020, Thursday
+##### WesBos - Click Outside
+
+**Today's Progress**: Practiced JS: Learned how to make a modal with a click-outside functionallity.
+
+**Thoughts:** I'm retaking this, today I studied some thinngs from the Wes Bos' beginner course. I learned how to make a modal with a click-outside functionallity that shows and hides that modal, Tomorrow I'll try to do that from scratch without folowwing the video.

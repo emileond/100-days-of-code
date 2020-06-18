@@ -45,9 +45,13 @@ Hopefully tomorrow will be a better day and I'd make more progress.
 
 I'm still struggling a bit with destructuring but I'm feeeling more comfortable each day.
 
-### Day 5: Jun 16, 2020, Thursday
+### Day 5: Jun 16, 2020, Tuesday
 ##### WesBos - Click Outside
 
 **Today's Progress**: Practiced JS: Learned how to make a modal with a click-outside functionallity.
 
 **Thoughts:** I'm retaking this, today I studied some thinngs from the Wes Bos' beginner course. I learned how to make a modal with a click-outside functionallity that shows and hides that modal, Tomorrow I'll try to do that from scratch without folowwing the video.
+
+### Day 6: Jun 17, 2020, Wednesday
+##### WesBos - Click Outside Modal & Scroll to Accept
+**Thoughts:** Today I completed the Modal Click Outside Excersize without watching the video again, just following my notes. I really liked this method, I thinnk I'll keep using it. Also I watched the next lesson; "Scroll to Accept" and took some notes to redoit it tomorrow by myself.

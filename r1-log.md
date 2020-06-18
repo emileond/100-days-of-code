@@ -29,3 +29,6 @@ Practiced JS Ternary Opeerators, destructuring, spread and rest operators.
 
 ### R1D5
 I'm retaking this, today I studied some thinngs from the Wes Bos' beginner course. I learned how to make a modal with a click-outside functionallity that shows and hides that modal, Tomorrow I'll try to do that from scratch without folowwing the video.
+
+### R1D6
+Today I completed the Modal Click Outside Excersize without watching the video again, just following my notes. I really liked this method, I thinnk I'll keep using it. Also I watched the next lesson; "Scroll to Accept" and took some notes to redoit it tomorrow by myself.

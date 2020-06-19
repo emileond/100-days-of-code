@@ -55,3 +55,7 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 ### Day 6: Jun 17, 2020, Wednesday
 ##### WesBos - Click Outside Modal & Scroll to Accept
 **Thoughts:** Today I completed the Modal Click Outside Excersize without watching the video again, just following my notes. I really liked this method, I thinnk I'll keep using it. Also I watched the next lesson; "Scroll to Accept" and took some notes to redoit it tomorrow by myself.
+
+### Day 7: Jun 18, 2020, Thursday
+##### WesBos - Scroll to Accept
+**Thoughts:** Completed the Scroll to Accept exercize, I'm really happy about it because I make it work without much trouble. I had to watch the video but only for adding some nice to have functionallity, I'm really glad I'm trying this studying technique about wattching stuff and taking notes and then tryinng to do it by myself.

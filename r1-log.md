@@ -35,3 +35,6 @@ Today I completed the Modal Click Outside Excersize without watching the video a
 
 ### R1D7
 Completed the Scroll to Accept exercize, I'm really happy about it because I make it work without much trouble. I had to watch the video but only for adding some nice to have functionallity, I'm really glad I'm trying this studying technique about wattching stuff and taking notes and then tryinng to do it by myself.
+
+### R1D8
+Studied the Tabs excersise from the Beginnner JS course, took a lot of notes to replicate it tomorrow without watching the class again. I also watched a small lesson about BEDMAS.

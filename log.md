@@ -59,3 +59,7 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 ### Day 7: Jun 18, 2020, Thursday
 ##### WesBos - Scroll to Accept
 **Thoughts:** Completed the Scroll to Accept exercize, I'm really happy about it because I make it work without much trouble. I had to watch the video but only for adding some nice to have functionallity, I'm really glad I'm trying this studying technique about wattching stuff and taking notes and then tryinng to do it by myself.
+
+### Day 8: Jun 21, 2020, Sunday
+##### WesBos - Tabs & BEDMAS
+**Thoughts:** Studied the Tabs excersise from the Beginnner JS course, took a lot of notes to replicate it tomorrow without watching the class again. I also watched a small lesson about BEDMAS.

@@ -38,3 +38,5 @@ Completed the Scroll to Accept exercize, I'm really happy about it because I mak
 
 ### R1D8
 Studied the Tabs excersise from the Beginnner JS course, took a lot of notes to replicate it tomorrow without watching the class again. I also watched a small lesson about BEDMAS.
+### R1D9
+Replicated the tabs lesson from yesterday with not much problem. Also studied a bit on flow control, if statements and function returns (truthly, falsy)

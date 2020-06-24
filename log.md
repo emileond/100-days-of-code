@@ -63,3 +63,7 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 ### Day 8: Jun 21, 2020, Sunday
 ##### WesBos - Tabs & BEDMAS
 **Thoughts:** Studied the Tabs excersise from the Beginnner JS course, took a lot of notes to replicate it tomorrow without watching the class again. I also watched a small lesson about BEDMAS.
+
+### Day 9: Jun 22, 2020, Monday
+##### WesBos - Tabs & BEDMAS
+**Thoughts:** Replicated the tabs lesson from yesterday with not much problem. Also studied a bit on flow control, if statements and function returns (truthly, falsy).

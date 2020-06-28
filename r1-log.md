@@ -38,5 +38,12 @@ Completed the Scroll to Accept exercize, I'm really happy about it because I mak
 
 ### R1D8
 Studied the Tabs excersise from the Beginnner JS course, took a lot of notes to replicate it tomorrow without watching the class again. I also watched a small lesson about BEDMAS.
+
 ### R1D9
-Replicated the tabs lesson from yesterday with not much problem. Also studied a bit on flow control, if statements and function returns (truthly, falsy)
+Replicated the tabs lesson from yesterday with not much problem. Also studied a bit on flow control, if statements and function returns (truthly, falsy).
+
+### R1D10
+Studied coercion, ternary operators, case switch and watched an excercise for moving a turtle with css variables. I'll try to replicate the excercise tomorrow only with my notes.
+
+### R1D11
+Replicated the turtle excercise, I had some bumps but I was able to do it like 70% without seeking for guidance. After that I studied a bit on intervals and Timers, all of this in the Wes Bos Beginner JS course.

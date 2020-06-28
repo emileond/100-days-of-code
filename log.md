@@ -67,3 +67,12 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 ### Day 9: Jun 22, 2020, Monday
 ##### WesBos - Tabs & BEDMAS
 **Thoughts:** Replicated the tabs lesson from yesterday with not much problem. Also studied a bit on flow control, if statements and function returns (truthly, falsy).
+
+### Day 10: Jun 26, 2020, Thursday
+##### WesBos - Coercion, Ternaries, Case Switch and Animating a Turtle with CSS Variables
+**Thoughts:** Studied coercion, ternary operators, case switch and watched an excercise for moving a turtle with css variables. I'll try to replicate the excercise tomorrow only with my notes.
+
+
+### Day 10: Jun 28, 2020, Saturday
+##### WesBos - Coercion, Ternaries, Case Switch and Animating a Turtle with CSS Variables
+**Thoughts:** Replicated the turtle excercise, I had some bumps but I was able to do it like 70% without seeking for guidance. After that I studied a bit on intervals and Timers, all of this in the Wes Bos Beginner JS course.

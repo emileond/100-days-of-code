@@ -73,6 +73,6 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 **Thoughts:** Studied coercion, ternary operators, case switch and watched an excercise for moving a turtle with css variables. I'll try to replicate the excercise tomorrow only with my notes.
 
 
-### Day 10: Jun 28, 2020, Saturday
+### Day 11: Jun 28, 2020, Saturday
 ##### WesBos - Coercion, Ternaries, Case Switch and Animating a Turtle with CSS Variables
 **Thoughts:** Replicated the turtle excercise, I had some bumps but I was able to do it like 70% without seeking for guidance. After that I studied a bit on intervals and Timers, all of this in the Wes Bos Beginner JS course.

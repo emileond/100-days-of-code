@@ -76,3 +76,7 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 ### Day 11: Jun 28, 2020, Saturday
 ##### WesBos - Coercion, Ternaries, Case Switch and Animating a Turtle with CSS Variables
 **Thoughts:** Replicated the turtle excercise, I had some bumps but I was able to do it like 70% without seeking for guidance. After that I studied a bit on intervals and Timers, all of this in the Wes Bos Beginner JS course.
+
+### Day 12: Jun 30, 2020, Tuesday
+##### WesBos - Data types: Objects, Maps, Arrays
+**Thoughts:** I studied about objects, maps and arrays, tomorrow I'll be studying more abouth array methods and practicing them.

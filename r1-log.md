@@ -47,3 +47,6 @@ Studied coercion, ternary operators, case switch and watched an excercise for mo
 
 ### R1D11
 Replicated the turtle excercise, I had some bumps but I was able to do it like 70% without seeking for guidance. After that I studied a bit on intervals and Timers, all of this in the Wes Bos Beginner JS course.
+
+### R1D12
+I studied about objects, maps and arrays, tomorrow I'll be studying more abouth array methods and practicing them.

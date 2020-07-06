@@ -84,7 +84,7 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 ### Day 13: Jul 2, 2020, Thursday
 #### Making a Website - Itsiespecialistas
 **Thoughts:** Started working on a website for a water traeatment company. Worked with SASS and Vanilla JS, also included some animatios with AOS library. I finished the general HTML structure, the Hero section, and the desktop navbar. 
-**Link to work:** [Dead Simple Calculator](https://itsiespecialistas.com)
+**Link to work:** [Itsi Especialistas](https://itsiespecialistas.com)
 
 
 ### Day 14: Jul 5, 2020, Sunday

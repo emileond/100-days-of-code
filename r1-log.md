@@ -50,3 +50,9 @@ Replicated the turtle excercise, I had some bumps but I was able to do it like 7
 
 ### R1D12
 I studied about objects, maps and arrays, tomorrow I'll be studying more abouth array methods and practicing them.
+
+### R1D13
+Started working on a website for a water traeatment company. Worked with SASS and Vanilla JS, also included some animatios with AOS library. I finished the general HTML structure, the Hero section, and the desktop navbar.
+
+### R1D14
+Practiced some array methods in the course, tomorrow I'll practice the last array cardio excercise and start the loops module.

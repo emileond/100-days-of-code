@@ -80,3 +80,13 @@ I'm still struggling a bit with destructuring but I'm feeeling more comfortable 
 ### Day 12: Jun 30, 2020, Tuesday
 ##### WesBos - Data types: Objects, Maps, Arrays
 **Thoughts:** I studied about objects, maps and arrays, tomorrow I'll be studying more abouth array methods and practicing them.
+
+## Day 13: Jul 2, 2020, Thursday
+#### Making a Website - Itsiespecialistas
+**Thoughts:** Started working on a website for a water traeatment company. Worked with SASS and Vanilla JS, also included some animatios with AOS library. I finished the general HTML structure, the Hero section, and the desktop navbar. 
+**Link to work:** [Dead Simple Calculator](https://itsiespecialistas.com)
+
+
+## Day 14: Jul 5, 2020, Sunday
+#### WesBos - Array Cardio (Static / Instance Methods)
+**Thoughts:** Practiced some array methods in the course, tomorrow I'll practice the last array cardio excercise and start the loops module. 
